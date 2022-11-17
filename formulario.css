@@ -1,0 +1,95 @@
+body {
+    margin: auto;
+    background-image: url("img2.png");
+    background-repeat: no-repeat;
+    background-position: 16% ;
+}
+
+header {
+   display: flex;
+    background-color: pink;
+    height: 100px;
+    align-items: center;
+}
+
+.img1 {
+ width: 7%;
+    
+}
+
+
+.formulario{
+    margin:auto;
+    background-color: pink;
+    text-align: center;  
+    margin-left: 44%;
+    width: 20%;
+    height: 420px;
+    margin-top: 3%;
+    border-radius: 5%;
+    
+}
+
+input{
+    margin: 2.9%;
+    margin-top: 4%;
+    border: none;
+    outline: 0px;
+    width: 63%;
+    height: 25px;
+    border-radius: 20%;
+    
+}
+
+.inicio1{
+    margin: auto;
+    text-decoration: none;
+    color: black;
+    margin-right: 7%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.quien{
+    margin: auto;
+    text-decoration: none;
+    color: black;
+    margin-left: 67%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+label{
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+:placeholder-shown{
+text-align: center;
+}
+
+.buton1 {
+    margin: 2%;
+    text-decoration: none;
+    padding: 0px;
+    font-weight: 500;
+    font-size: 15px;
+    color: white;
+ background-color: plum;
+    border-radius: 4px;
+    border: 2px solid palevioletred;
+    border: none;
+    display: inline-flex;
+    cursor:grabbing;
+    transition: 2s ease all;
+}
+
+.buton1:hover{
+    background-color:black;
+}
+
+h2 {
+    margin: auto;
+    margin-top: 2%;
+    margin-left: 46%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
